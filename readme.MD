@@ -10,5 +10,3 @@
 
 # Egg Dosa
 * Dosa Batter
-* Egg and karam
-* Egg and Karam
